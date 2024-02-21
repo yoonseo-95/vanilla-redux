@@ -12,7 +12,7 @@
     "redux": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://yoonseo-95.github.io/vanilla-redux",
+  "homepage": "https://yoonseo-95.github.io/vanilla-redux/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
